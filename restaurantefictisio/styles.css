@@ -1,0 +1,38 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff8f0;
+    color: #333;
+}
+
+.hero {
+    background-image:url('https://sdmntprwestus3.oaiusercontent.com/files/00000000-7fa4-61fd-bdf5-cc5d8c1cbc2a/raw?se=2025-07-06T00%3A13%3A03Z&sp=r&sv=2024-08-04&sr=b&scid=48320b90-3afe-5798-89ba-4a826ec6aa6a&skoid=add8ee7d-5fc7-451e-b06e-a82b2276cf62&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-05T12%3A52%3A09Z&ske=2025-07-06T12%3A52%3A09Z&sks=b&skv=2024-08-04&sig=TghoSiz3uO1/0W%2BrB15RUWSdd53z/pgWjdRbBRdO7SI%3D');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 5rem 2rem;
+}
+
+section {
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+}
+
+.menu ul {
+    list-style: none;
+    padding: 0;
+}
+
+.menu li {
+    background-color: #fddc9f;
+    padding: 1rem;
+    margin: 0.5rem 0;
+    border-radius: 8px;
+}
+.encabezado{
+    -webkit-text-stroke: 1px black; 
+    color: #b69251; 
+}
